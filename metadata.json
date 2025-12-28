@@ -1,0 +1,7 @@
+{
+  "name": "Prompt Architect: Style Reverse Engineer",
+  "description": "Upload up to 10 reference images to reverse-engineer their visual style into high-quality AI generation prompts with built-in anti-artifact logic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
